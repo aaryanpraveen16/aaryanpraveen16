@@ -5,7 +5,8 @@
   - 💼  Worked at Flair Labs(Mumbai) as an Associate Software Engineer(Oct 2021 - Mar 2023).
   
   - 🚀 Currently learning about Cloud and Blockchain.
-
+    
+📫 Contact: praveen.aa@northeastern.edu | [LinkedIn](https://www.linkedin.com/in/aaryanpraveen/)
 <!--
 **aaryanpraveen16/aaryanpraveen16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
