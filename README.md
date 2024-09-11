@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Aaryan Praveen!
 
--🌱 A second-year graduate student at Northeastern University(Boston), pursuing my Master’s in Software Engineering Systems.
-
-- 💼  Orked at Flair Labs(Mumbai)
-
-- 🚀 Currently learning about Cloud and Blockchain.
+  - 🌱 A second-year graduate student at Northeastern University(Boston), pursuing my Master’s in Software Engineering Systems.
+  
+  - 💼  Orked at Flair Labs(Mumbai)
+  
+  - 🚀 Currently learning about Cloud and Blockchain.
 
 <!--
 **aaryanpraveen16/aaryanpraveen16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
