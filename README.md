@@ -2,7 +2,7 @@
 
   - 🌱 A second-year graduate student at Northeastern University(Boston), pursuing my Master’s in Software Engineering Systems.
   
-  - 💼  Orked at Flair Labs(Mumbai)
+  - 💼  Worked at Flair Labs(Mumbai) as an Associate Software Engineer(Oct 2021 - Mar 2023).
   
   - 🚀 Currently learning about Cloud and Blockchain.
 
