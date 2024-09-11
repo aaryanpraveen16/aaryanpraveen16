@@ -7,6 +7,9 @@
   - 🚀 Currently learning about Cloud and Blockchain.
     
 📫 Contact: praveen.aa@northeastern.edu | [LinkedIn](https://www.linkedin.com/in/aaryanpraveen/)
+
+
+![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryanpraveen16&show_icons=true&theme=algolia)
 <!--
 **aaryanpraveen16/aaryanpraveen16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
