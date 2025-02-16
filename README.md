@@ -24,7 +24,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryanpraveen/)  
 🌐 **Portfolio:** [aaryanpraveen.wixsite.com/portfolio](https://aaryanpraveen.wixsite.com/portfolio)  
 ✉️ **Email:** praveen.aa@northeastern.edu  
-
----
-
-Let me know if you need further modifications! 🚀
