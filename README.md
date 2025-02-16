@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Aaryan Praveen!
 
-🚀 Passionate about software engineering, cloud computing, and blockchain technology.
+🚀 Software Engineer passionate about building scalable solutions, exploring cloud technologies, and innovating with blockchain. Always eager to learn, optimize, and solve complex problems.
 
 ### 🌟 About Me
 - 🎓 **Graduate Student** at **Northeastern University, Boston**  
